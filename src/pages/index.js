@@ -62,7 +62,7 @@ const LilBox = styled.div`
   }
 
   img:hover {
-    opacity: 0.5;
+    opacity: 0.6;
   }
 
   
