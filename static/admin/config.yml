@@ -1,5 +1,6 @@
 backend: 
-  name: test-repo
+  name: github
+  repo: lamencha/atozeatsblog
 
 media_folder: static/assets
 
