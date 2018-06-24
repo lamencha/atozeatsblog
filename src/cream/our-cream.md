@@ -1,5 +1,5 @@
 ---
-title: "Cream of the crop"
+title: "Cream Of The Crop"
 date: "2018-06-14"
 published: false
 parent: yes
