@@ -2,9 +2,10 @@ module.exports = {
   siteMetadata: {
     title: 'A to Z Eats',
     description: 'A blog about food by Bryan. ',
+    pathPrefix: '/atozeats',
   },
 
-  pathPrefix: "/gatsby",
+  
 
   plugins: [
   'gatsby-plugin-react-helmet', 
