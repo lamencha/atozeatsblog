@@ -108,20 +108,23 @@ const IndexPage = ({data}) => (
 </LilBox>
 </Link>
 
-
+<Link to="/toprated">
   <LilBox>      
   <img src={seal} alt="top rated" />
     <InBox>
-      <h3><Link to="/creamhelper">Top Rated</Link></h3>
+      <h3>Top Rated</h3>
     </InBox>
 </LilBox>
+</Link>
 
+<Link to="/newplaces">
  <LilBox>      
   <img src={new1} alt="new places" />
     <InBox>
-      <h3><Link to="/creamhelper">Newest Places</Link></h3>
+      <h3>Newest Places</h3>
     </InBox>
 </LilBox>
+</Link>
 </ColorBox>
 <br/>
 <br/>
