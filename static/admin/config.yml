@@ -14,6 +14,6 @@ collections:
       - { name: title, label: Title }
       - { name: date, label: Create At, widget: date }
       - { name: body, label: Post, widget: markdown }
-      - { name: published, label: Cream of the Crop false to add true to omit, widget: markdown }
-      - { name: top, label: Top Places 1 to add 0 to omit, widget: markdown }
-      - { name: new, label: New Places 1 to add 0 to omit, widget: markdown }
+      - { name: cream, label: Cream of the Crop true to add false to omit, widget: markdown }
+      - { name: top, label: Top Places true to add false to omit, widget: markdown }
+      - { name: new, label: New Places true to add false to omit, widget: markdown }
