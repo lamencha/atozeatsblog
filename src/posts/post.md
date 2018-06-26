@@ -2,6 +2,8 @@
 title: "Where To Dine Like A Hipster"
 date: "2018-06-12"
 cream: 0
+top: 0
+new1: 0
 ---
 
 ### The Grand Coffee

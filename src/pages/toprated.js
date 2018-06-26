@@ -58,6 +58,7 @@ query TopMeta {
         frontmatter {
           title
           date(formatString: "MMMM DD YYYY")
+          top
         }
         fields {
           slug

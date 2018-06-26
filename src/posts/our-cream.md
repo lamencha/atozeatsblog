@@ -2,6 +2,8 @@
 title: "Cream Of The Crop"
 date: "2018-06-14"
 cream: 1
+top: 0
+new1: 0
 ---
 
 
