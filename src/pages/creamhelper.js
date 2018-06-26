@@ -53,7 +53,7 @@ query CreamMeta {
       description
     }
   }
-  allMarkdownRemark(filter: { frontmatter: { cream: { eq: 'true' } } } ) {
+  allMarkdownRemark(filter: { frontmatter: { cream: { eq: true } } } ) {
     edges {
       node {
         ...CreamFragment

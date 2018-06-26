@@ -1,9 +1,9 @@
 ---
 title: "New Eats"
 date: "2018-06-14"
-cream: 'false'
-top: 'false'
-new1: 'true'
+cream: false
+top: false
+new1: true
 ---
 
 ### Trapp Haus BBQ
