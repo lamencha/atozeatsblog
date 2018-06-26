@@ -51,7 +51,7 @@ query NewMeta {
       description
     }
   }
-  allMarkdownRemark(filter: { frontmatter: { new: {eq: 1 } } } ) {
+  allMarkdownRemark(filter: { frontmatter: { new1: {eq: true } } } ) {
     edges {
       node {
         ...CreamFragment
