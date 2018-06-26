@@ -1,7 +1,7 @@
 ---
 title: "Fancy Dinner For Fancy Folk"
 date: "2018-06-14"
-cream: false
+cream: 0
 ---
 
 ### Clever Koi

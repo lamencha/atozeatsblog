@@ -1,7 +1,7 @@
 ---
 title: "Cream Of The Crop"
 date: "2018-06-14"
-cream: true
+cream: 1
 ---
 
 

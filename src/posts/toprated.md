@@ -1,8 +1,8 @@
 ---
 title: "The Steaks Are High"
 date: "2018-06-14"
-cream: false
-top: true
+cream: 0
+top: 1
 ---
 
 ### The Keg
