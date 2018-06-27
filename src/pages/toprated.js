@@ -54,7 +54,6 @@ query TopMeta {
   allMarkdownRemark(filter: { frontmatter: { top: {eq: 1 } } } ) {
     edges {
       node {
-        ...CreamFragment
         frontmatter {
           title
           date(formatString: "MMMM DD YYYY")

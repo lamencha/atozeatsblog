@@ -2,7 +2,6 @@ import React from 'react'
 import Link from 'gatsby-link'
 import PostListing from '../components/Posts/PostListing'
 
-import CreamHelp from '../components/CreamHelp';
 
 
 const IndexPage = ({data}) => (
@@ -56,7 +55,7 @@ query CreamMeta {
   allMarkdownRemark(filter: { frontmatter: { cream: {eq: 1 } } } ) {
     edges {
       node {
-        ...CreamFragment
+        
         frontmatter {
           title
           date(formatString: "MMMM DD YYYY")

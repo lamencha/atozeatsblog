@@ -8,8 +8,6 @@ import styled from "styled-components";
 
 import Img from "gatsby-image";
 
-
-import CreamHelp from '../components/CreamHelp';
 import { relative } from 'path';
 
 
@@ -171,7 +169,7 @@ query SiteMeta {
   allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC}) {
     edges {
       node {
-        ...CreamFragment
+
         frontmatter {
           title
           date(formatString: "MMMM DD YYYY")
