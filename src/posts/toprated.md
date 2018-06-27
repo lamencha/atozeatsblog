@@ -1,9 +1,10 @@
 ---
-title: "The Steaks Are High"
-date: "2018-06-14"
-cream: 0
+title: The Steaks Are High
+date: '2018-06-14'
+cream: 2
 top: 1
-new1: 0
+new1: 2
+image: /assets/koi.jpg
 ---
 
 ### The Keg
