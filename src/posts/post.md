@@ -1,9 +1,10 @@
 ---
-title: "Where To Dine Like A Hipster"
-date: "2018-06-12"
-cream: 0
-top: 0
-new1: 0
+title: Where To Dine Like A Hipster
+date: '2018-06-12'
+cream: 2
+top: 2
+new1: 2
+image: /assets/chick.jpg
 ---
 
 ### The Grand Coffee
