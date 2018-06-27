@@ -139,7 +139,7 @@ const IndexPage = ({data}) => (
     color:"white",
     height:"1px",
     background:"black",
-    background: "-webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#000), to(#e5e3e3))"
+    background: "-webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#000), to(#eff0f4))"
           }}>
     </span>
   <br/>
