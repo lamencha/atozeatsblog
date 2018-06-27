@@ -1,9 +1,10 @@
 ---
-title: "Fancy Dinner For Fancy Folk"
-date: "2018-06-14"
-cream: 0
-top: 0
-new1: 0
+title: Fancy Dinner For Fancy Folk
+date: '2018-06-14'
+cream: 2
+top: 2
+new1: 2
+image: /assets/chick.jpg
 ---
 
 ### Clever Koi
