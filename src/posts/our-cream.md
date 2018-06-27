@@ -13,4 +13,4 @@ image: /static/assets/chick.jpg
 * Great Decor
 * Fantastic food
 
-![yum](/static/assets/koi.jpeg)
+![yum2](/static/assets/chick.jpg)
