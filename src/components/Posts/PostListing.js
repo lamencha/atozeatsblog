@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 
 
 const PostListing = ({post}) => (
+  
 <article>
 <h4>  {post.frontmatter.date} </h4>
   <h2>  {post.frontmatter.title} </h2>
