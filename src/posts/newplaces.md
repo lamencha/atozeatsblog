@@ -1,9 +1,10 @@
 ---
-title: "New Eats"
-date: "2018-06-14"
-cream: 0
-top: 0
+title: New Eats
+date: '2018-06-14'
+cream: 2
+top: 2
 new1: 1
+image: /assets/chick.jpg
 ---
 
 ### Trapp Haus BBQ
