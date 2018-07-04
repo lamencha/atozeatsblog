@@ -3,11 +3,16 @@ import Link from 'gatsby-link'
 
 
 const PostListing = ({post}) => (
-  
 <article>
+
 <h4>  {post.frontmatter.date} </h4>
   <h2>  {post.frontmatter.title} </h2>
-    <p>{post.excerpt} </p>
+  
+
+     <div 
+        dangerouslySetInnerHTML={{
+          __html: post.frontmatter.html
+        }}/>
     <h5>
     <Link to={post.fields.slug} >
      Read More 
@@ -17,3 +22,6 @@ const PostListing = ({post}) => (
 
 );
 export default PostListing; 
+
+
+
